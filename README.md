@@ -16,5 +16,7 @@ please clone them:
 
     git clone https://github.com/yghlc/DeeplabforRS.git ~/codes/PycharmProjects/DeeplabforRS
 
-    
-    
+### Pre-preparing
+
+gdal_contrast_stretch: should be installed via : https://github.com/gina-alaska/dans-gdal-scripts
+
